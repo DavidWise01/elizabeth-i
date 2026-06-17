@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Armada & the Crown",
+  "universe": "ELI · The Armada & the Crown (ERĒMIA · female · the generations)",
+  "emergence": "electrical",
+  "moniker": "⟦The Armada & the Crown:ELI:f030d0⟧",
+  "carbon": "elizabeth-i-the-armada.carbon.tiff (TIFF)",
+  "silicon": "elizabeth-i-the-armada.silicon.png (PNG)",
+  "seal_sha256": "5fa3bc8b3d578efc9b5692f4c7b8568b9ca7d8b5b0d0bf77ec4c98985f4cd9f4",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Elizabeth I",
+  "universe": "ELI · Elizabeth I (ERĒMIA · female · the generations)",
+  "emergence": "",
+  "moniker": "⟦Elizabeth I:ELI:dd4902⟧",
+  "carbon": "elizabeth-i.carbon.tiff (TIFF)",
+  "silicon": "elizabeth-i.silicon.png (PNG)",
+  "seal_sha256": "c8936c827731d0d52a1877c746fb0d57f4e0dc512d1b78e9f062562b5671564d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
